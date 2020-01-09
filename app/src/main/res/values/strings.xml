@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="contactsname">ContactsName</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="_1234">1234</string>
+    <string name="email">Email</string>
+    <string name="others_details">Others Details</string>
+</resources>
